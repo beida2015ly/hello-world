@@ -1,2 +1,2 @@
 # hello-world
-Just for study
+Just for commit test!
